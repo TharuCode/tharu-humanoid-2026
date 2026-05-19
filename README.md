@@ -20,7 +20,7 @@ This repository is the public engineering log for the build. Everything I do thi
 | Height | 1.2 m |
 | Mass | 35 kg |
 | Actuators | 25 ENCOS motors across 5 SKUs |
-| Stock compute | Raspberry Pi 5 + Radxa CM5 (Under consideration) |
+| Stock compute | Raspberry Pi 5 + Radxa CM5 (Under consideration/open to upgrades) |
 | Target compute upgrade | NVIDIA Jetson AGX Thor |
 | Perception | Stereolabs ZED 2i, Livox Mid-360, Orbbec Gemini 336L |
 | Force/torque sensing | Bota Systems SensONE |
@@ -46,7 +46,7 @@ Total project value: £40,000.
 | Line | Cost |
 |---|---|
 | Asimov v1 kit (with UK VAT and shipping) | £13,000 |
-| Sensors (ZED 2i, Mid-360, Gemini 336L, Bota F/T) (Still under consideration) | £6,800 |
+| Sensors (ZED 2i, Mid-360, Gemini 336L, Bota F/T) (Still under consideration/open to upgrades) | £6,800 |
 | Spare parts (motors die mid build, this isn't optional) | £6,000 |
 | Bambu Lab X1C 3D printer for custom mounts | £1,200 |
 | Workshop tools | £2,500 |
