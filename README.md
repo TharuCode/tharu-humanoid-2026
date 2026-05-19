@@ -80,7 +80,7 @@ Hardware sponsors receive named credit in every weekly post, co-branded content 
 
 If your product is on my bill of materials, or is closely relevant to the build, email tharunan19@gmail.com or reach out on LinkedIn.
 
-Current outreach in progress: NVIDIA (Jetson AI Ambassador application submitted), Menlo Research, Bambu Lab, Hugging Face, ODrive Robotics, Stereolabs, Orbbec, Livox, Bota Systems, Pollen Robotics, Engineered Arts, FOXTECH, Robotis UK, The Pi Hut, AMD.
+Current outreach in progress: NVIDIA, Menlo Research, Bambu Lab, Hugging Face, ODrive Robotics, Stereolabs, Orbbec, Livox, Bota Systems, Pollen Robotics, Engineered Arts, FOXTECH, Robotis UK, The Pi Hut, AMD.
 
 ## Follow along
 
@@ -119,7 +119,5 @@ https://www.linkedin.com/in/tharunan-sayanthan-78454a1b8/
 Open to friends, fellow students, and engineers within commuting distance of South London or Brighton who want to be part of the build. DM on LinkedIn.
 
 ## License
-
-The original Asimov v1 work is licensed by Menlo Research under their published terms. Modifications and original code in this repository are released under MIT unless noted otherwise on individual files.
 
 The original Asimov v1 work is licensed by Menlo Research under their published terms. Modifications and original code in this repository are released under MIT unless noted otherwise on individual files.
