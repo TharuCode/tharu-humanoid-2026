@@ -20,7 +20,7 @@ This repository is the public engineering log for the build. Everything I do thi
 | Height | 1.2 m |
 | Mass | 35 kg |
 | Actuators | 25 ENCOS motors across 5 SKUs |
-| Stock compute | Raspberry Pi 5 + Radxa CM5 |
+| Stock compute | Raspberry Pi 5 + Radxa CM5 (Under consideration) |
 | Target compute upgrade | NVIDIA Jetson AGX Thor |
 | Perception | Stereolabs ZED 2i, Livox Mid-360, Orbbec Gemini 336L |
 | Force/torque sensing | Bota Systems SensONE |
@@ -46,7 +46,7 @@ Total project value: £40,000.
 | Line | Cost |
 |---|---|
 | Asimov v1 kit (with UK VAT and shipping) | £13,000 |
-| Sensors (ZED 2i, Mid-360, Gemini 336L, Bota F/T) | £6,800 |
+| Sensors (ZED 2i, Mid-360, Gemini 336L, Bota F/T) (Still under consideration) | £6,800 |
 | Spare parts (motors die mid build, this isn't optional) | £6,000 |
 | Bambu Lab X1C 3D printer for custom mounts | £1,200 |
 | Workshop tools | £2,500 |
@@ -111,12 +111,15 @@ Thanks to everyone backing the campaign, sponsoring hardware, or sharing the pro
 
 ## Contact
 
-Tharu Tharunan
+Tharunan Sayanthan
+
 tharunan19@gmail.com
 https://www.linkedin.com/in/tharunan-sayanthan-78454a1b8/
 
 Open to friends, fellow students, and engineers within commuting distance of South London or Brighton who want to be part of the build. DM on LinkedIn.
 
 ## License
+
+The original Asimov v1 work is licensed by Menlo Research under their published terms. Modifications and original code in this repository are released under MIT unless noted otherwise on individual files.
 
 The original Asimov v1 work is licensed by Menlo Research under their published terms. Modifications and original code in this repository are released under MIT unless noted otherwise on individual files.
